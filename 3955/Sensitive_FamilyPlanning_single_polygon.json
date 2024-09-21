@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "name": "Sensitive_FamilyPlanning",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "AZSEN_USA_1805",
+                "brand": "null",
+                "cat1": "Sensitive",
+                "cat2": "Hotlines & Helping Lines",
+                "store_numb": null,
+                "store_name": "ABC Pregnancy Care Cente",
+                "address": "ABC Pregnancy Care Cente,509 N 6th St,Garden City,KS,67846-5508,US",
+                "lat": 37.968967,
+                "lon": -100.870824,
+                "new_addres": null,
+                "website": "https://www.abcpregnancycarecenter.org/contact",
+                "status": null,
+                "comments": null,
+                "new_lat": "37.968967",
+                "new_lon": "-100.870824",
+                "area": "351.516519",
+                "roundness": 0.64654827814946203
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                -100.870826043264046,
+                                37.969125931616752
+                            ],
+                            [
+                                -100.87069152838049,
+                                37.969101232806999
+                            ],
+                            [
+                                -100.870771606102693,
+                                37.968830190673302
+                            ],
+                            [
+                                -100.870887396407213,
+                                37.968851451468034
+                            ],
+                            [
+                                -100.870853543216057,
+                                37.968966035749737
+                            ],
+                            [
+                                -100.870870646148617,
+                                37.968969176093061
+                            ],
+                            [
+                                -100.870826043264046,
+                                37.969125931616752
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
