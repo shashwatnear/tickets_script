@@ -1,0 +1,4 @@
+ip,city_geoname_id,city_name,continent_geoname_id,continent_code,continent_name,country_geoname_id,country_iso_code,country_name,latitude,longitude,accuracy_radius,time_zone,postal_code,subdivision_geoname_id,subdivision_iso_code,subdivision_name,registered_country_geoname_id,registered_country_iso_code,registered_country_name
+49.205.33.115,1277333,Bengaluru,6255147,AS,Asia,1269750,IN,India,12.9634,77.5855,5,Asia/Kolkata,560076,1267701,KA,Karnataka,1269750,IN,India
+128.234.115.20,110336,Dammam,6255147,AS,Asia,102358,SA,Saudi Arabia,26.4336,50.1116,200,Asia/Riyadh,,108241,04,Eastern Province,102358,SA,Saudi Arabia
+5.37.215.181,288967,Seeb,6255147,AS,Asia,286963,OM,Oman,23.6673,58.1912,100,Asia/Muscat,,411740,MA,Muscat,286963,OM,Oman

@@ -1,0 +1,7 @@
+{
+    "name": "Name",
+    "attributes": [],
+    "idType": "hem",
+    "country": "AUS",
+    "sourcePath": "s3://staging-near-data-analytics/shashwat/acm/near_client_hems_match/part-00000-ffaf8a77-bd18-4cc5-b62d-7dcd36fd8163-c000.csv"
+ }

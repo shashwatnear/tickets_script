@@ -1,0 +1,13 @@
+2024-08-19	Roy Morgan - NEX Building Group	66bc46a0fb552b2cc7bca44e	7888
+2024-08-19	Roy Morgan Test Implementation	65766130cc907b749dd6574d	3769
+2024-08-19	Tourism Western Australia	64dc626641774a2809774acd	14468
+2024-08-19	Roy Morgan - Frasers Property	66b23f9dfb552b2cc7bca422	18
+2024-08-19	Roy Morgan - Edgewater Homes	66aa0ef6e4271b2168727a41	1
+2024-08-19	Roy Morgan - VRGF	6684d4b58160f23f52e894f9	1397
+2024-08-19	Roy Morgan - Plantation Homes	66aa0ed4e4271b2168727a40	1
+2024-08-19	Roy Morgan - Ticket Master	6699ef8de4271b2168727a1b	188795
+2024-08-19	Roy Morgan - Henley Homes	66aa0ee7fb552b2cc7bca413	1
+2024-08-20	Roy Morgan - Freedom - AUS	66be06f7e4271b2168727a91	2
+2024-08-20	Roy Morgan - NEX Building Group	66bc46a0fb552b2cc7bca44e	8687
+2024-08-20	Tourism Western Australia	64dc626641774a2809774acd	13258
+2024-08-20	Roy Morgan Test Implementation	65766130cc907b749dd6574d	3689
