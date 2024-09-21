@@ -1,0 +1,83 @@
+{
+    'city': 
+        {
+            'geoname_id': 2147714, 
+            'names': {
+                'de': 'Sydney', 
+                'en': 'Sydney', 
+                'es': 'Sídney', 
+                'fr': 'Sydney', 
+                'ja': 'シドニー', 
+                'pt-BR': 'Sydney', 
+                'ru': 'Сидней', 
+                'zh-CN': '悉尼'
+        }
+    }, 
+    'continent': {
+        'code': 'OC', 
+        'geoname_id': 6255151, 
+        'names': {
+            'de': 'Ozeanien', 
+            'en': 'Oceania', 
+            'es': 'Oceanía', 
+            'fr': 'Océanie', 
+            'ja': 'オセアニア', 
+            'pt-BR': 'Oceania', 
+            'ru': 'Океания', 
+            'zh-CN': '大洋洲'
+        }
+    }, 
+    'country': {
+        'geoname_id': 2077456, 
+        'iso_code': 'AU', 
+        'names': {
+            'de': 'Australien', 
+            'en': 'Australia', 
+            'es': 'Australia', 
+            'fr': 'Australie', 
+            'ja': 'オーストラリア', 
+            'pt-BR': 'Austrália', 
+            'ru': 'Австралия', 
+            'zh-CN': '澳大利亚'
+        }
+    }, 
+    'location': {
+        'accuracy_radius': 20, 
+        'latitude': -33.8582, 
+        'longitude': 151.127, 
+        'time_zone': 'Australia/Sydney'
+    }, 
+    'postal': {
+        'code': '2046'
+    }, 
+    'registered_country': {
+        'geoname_id': 2077456, 
+        'iso_code': 'AU', 
+        'names': {
+            'de': 'Australien', 
+            'en': 'Australia', 
+            'es': 'Australia', 
+            'fr': 'Australie', 
+            'ja': 'オーストラリア', 
+            'pt-BR': 'Austrália', 
+            'ru': 'Австралия', 
+            'zh-CN': '澳大利亚'
+        }
+    }, 
+    'subdivisions': [
+        {
+            'geoname_id': 2155400, 
+            'iso_code': 'NSW', 
+            'names': {
+                'de': 'New South Wales', 
+                'en': 'New South Wales', 
+                'es': 'Nueva Gales del Sur', 
+                'fr': 'Nouvelle-Galles du Sud', 
+                'ja': 'ニューサウスウェールズ州', 
+                'pt-BR': 'Nova Gales do Sul', 
+                'ru': 'Новый Южный Уэльс', 
+                'zh-CN': '新南威尔士州'
+            }
+        }
+    ]
+}

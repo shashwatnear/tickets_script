@@ -1,0 +1,2 @@
+'network','poi_name','city','lat','lon','start_date','finish_date','unit','vendor','face','size','type','counts_campaign_dates','m2','unit_size','direction','not','radius'
+'ifa'
